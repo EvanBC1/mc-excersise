@@ -21,8 +21,7 @@ I am bob and i dont break things
 
 Ted and Carol was here!
 
-<<<<<<< HEAD
 I love to type in the master branch
-=======
 Ted and Carol was here!
->>>>>>> fa44b794410ab49886db87f0bf810ee34a508815
+
+ba ba ba babaaran 
